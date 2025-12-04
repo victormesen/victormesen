@@ -16,6 +16,3 @@ Actualmente curso Ingeniería en Sistemas Computacionales y mi objetivo es avanz
 
 ---
 
-### 📌 Repositorios destacados
-- [Documentación de procesos](https://github.com/victormesen/documentacion-procesos)
-- [Automatización en AWS](https://github.com/victormesen/aws-automation)
