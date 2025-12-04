@@ -19,4 +19,5 @@ Actualmente curso **Ingeniería en Sistemas Computacionales** y mi objetivo es a
 
 ## 🌐 Conéctate conmigo
 
+www.linkedin.com/in/victormesen-awscloudsupport
 
