@@ -1,3 +1,4 @@
+
 # ¡Hola! Soy Victor Mesen
 
 ## 👨‍💻 Sobre mí
@@ -13,22 +14,7 @@
 - **Procesos y automatización**: Mejora continua y eficiencia operativa.
 
 ## 📈 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victormesen&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormesen&layout=compact&theme=radical)
-
-## 🌐 Conéctate conmigo
-[LinkedIn](https://www.linkedin.com/in/victormesen-awscloudsupport)
-
----
-
-### ✅ Badges
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![Technical Support](https://img.shields.io/badge/Technical-Support-blue?style=for-the-badge&logo=helpdesk)
-![Process Optimization](https://img.shields.io/badge/Process-Optimization-green?style=for-the-badge&logo=workflow)
-
----
-
-### 📌 Repositorios destacados
-- [Documentación de procesos](https://github.com/victormesen/documentacion-procesos)
-- [Automatización en AWS](https://github.com/victormesen/aws-automation)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username## ✅ Badges
+!AWS
+![Technical Support](https://img.shields.io/badge/Technical-Support-blue?style=for-thezation-green?style=for-the-badge&logocom/victormesen/documentacion-procesos)
+- Automatización en AWS
