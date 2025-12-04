@@ -10,10 +10,14 @@ Actualmente curso **Ingeniería en Sistemas Computacionales** y mi objetivo es a
 
 ---
 
+
 ## 🎓 Educación y Certificaciones
 
 - **Universidad Tecnológica Costarricense (UTC)**  
-  Grado en Ingeniería en Sistemas Computacionales
+  *Grado en Ingeniería en Sistemas Computacionales* (Actualmente cursando)
+
+- **AWS Training & Certification**  
+  *AWS Cloud Practitioner Essentials*
 
 - **Universidad Cenfotec**  
   Técnico en Soporte Técnico  
@@ -43,13 +47,7 @@ Actualmente curso **Ingeniería en Sistemas Computacionales** y mi objetivo es a
 
 - **Convenio MEP-ICER**  
   Bachillerato en Educación Media
-  
----
 
-## 🛠️ Áreas de experiencia
-- **Soporte técnico:** diagnóstico, resolución de problemas y asistencia a usuarios.
-- **Cloud Computing:** AWS (servicios básicos y arquitectura).
-- **Procesos y automatización:** mejora continua y eficiencia operativa.
 
 ---
 
