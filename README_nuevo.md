@@ -10,6 +10,42 @@ Actualmente curso **Ingeniería en Sistemas Computacionales** y mi objetivo es a
 
 ---
 
+## 🎓 Educación y Certificaciones
+
+- **Universidad Tecnológica Costarricense (UTC)**  
+  Grado en Ingeniería en Sistemas Computacionales
+
+- **Universidad Cenfotec**  
+  Técnico en Soporte Técnico  
+  Incluye: Soporte, Redes, Mesa de Servicio, GNU Linux, Gestión de Operaciones I y II, Sistemas Windows
+
+- **Cisco Networking Academy**  
+  Fundamentos de Python 1
+
+- **Comunidad Reparando**  
+  Electrónica de Computadoras  
+  Electrónica de Laptops
+
+- **Microsoft y LinkedIn**  
+  Fundamentos profesionales del análisis de datos
+
+- **Fortinet**  
+  NSE Network Security Associate NSE1
+
+- **Citrix Education**  
+  XenApp & XenDesktop Helpdesk Support
+
+- **Universidad de Costa Rica (UCR)**  
+  CCNA 1 y 2, Cisco Network Academy
+
+- **INA**  
+  IT Essentials – Mantenimiento de PC
+
+- **Convenio MEP-ICER**  
+  Bachillerato en Educación Media
+  
+---
+
 ## 🛠️ Áreas de experiencia
 - **Soporte técnico:** diagnóstico, resolución de problemas y asistencia a usuarios.
 - **Cloud Computing:** AWS (servicios básicos y arquitectura).
