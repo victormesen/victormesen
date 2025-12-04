@@ -11,20 +11,15 @@ Actualmente curso Ingeniería en Sistemas Computacionales y mi objetivo es avanz
 - Cloud Computing: AWS (servicios básicos y arquitectura).
 - Procesos y automatización: mejora continua y eficiencia operativa.
 
-## 📈 Estadísticas
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victormesen&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victormesen&layout=compact&theme=radical)
-
 ## 🌐 Conéctate conmigo
 [LinkedIn](https://www.linkedin.com/in/victormesen-awscloudsupport)
 
 ---
 
 ### ✅ Badges
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazonaws)
-![Technical Support](https://img.shields.io/badge/Technical-Support-blue?style=for-the-badge&logo=helpdesk)
-![Process Optimization](https://img.shields.io/badge/Process-Optimization-green?style=for-the-badge&logo=workflow)
+![AWS]
+![Technical Support]
+![Process Optimization]
 
 ---
 
